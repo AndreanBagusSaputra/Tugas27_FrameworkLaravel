@@ -1,0 +1,4 @@
+Tema Aplikasi: Sistem Restoran
+Skenario Singkat: Customer wajib untuk mengisi data diri untuk memesan makanan dan dapat dilihat pesanan apa saja yang sudah di pesan
+                  dan jika sudah dipilih semua maka lanjut ke pembayaran lalu pilih metode pembayran
+Fitur: Login, landing page untuk memilih makanan, Profile, keranjang,  menu checkout.
